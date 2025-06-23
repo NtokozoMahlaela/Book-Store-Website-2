@@ -32,8 +32,10 @@ Modern, responsive author website template built with:
 ### Cloning and Running the Book Store Website from GitHub
 
 Clone the Repository
+On VS Code
 
 bash
+
 git clone https://github.com/NtokozoMahlaela/Book-Store-Website-2.git
 
 Then Run to preview
