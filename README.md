@@ -28,13 +28,12 @@ Modern, responsive author website template built with:
   <!-- Brand, menu items, login button -->
 </nav>
 
+```
 ### Cloning and Running the Book Store Website from GitHub
 
 Clone the Repository
-Open a terminal (Command Prompt, PowerShell, or Terminal)
-Navigate to the directory where you want to store the project
-Run the clone command:
 
 bash
 git clone https://github.com/NtokozoMahlaela/Book-Store-Website-2.git
-cd Book-Store-Website-2
+
+Then Run to preview
